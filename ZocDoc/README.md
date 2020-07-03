@@ -13,12 +13,13 @@ Scraped **doctor's name** and their **speciality** from https://www.zocdoc.com/s
 
 # Total rows and column scraped
 
-Rows = 
+Rows = 9298
+
 columns = 2
 
-# Sample dataset
+# Sample dataset scraped
 
-
+![](images/dataset.png)
 
 # Python package used
 ![](images/beautifulsoup.png)
